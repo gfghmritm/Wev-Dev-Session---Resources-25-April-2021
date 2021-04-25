@@ -1,5 +1,5 @@
-# Web development roadmap & trends 2021
-Collection of useful video courses and list of resources which helped me to create roadmap.
+# Web development Resources 
+Here is the link of resoureces which would help you to ease your web dev learning journey.
 
 ### Video tutorials:
 
@@ -87,7 +87,3 @@ Collection of useful video courses and list of resources which helped me to crea
 ### Validate HTML online
 - [https://validator.w3.org/](https://validator.w3.org/)
 - [https://www.freeformatter.com/html-validator.html](https://www.freeformatter.com/html-validator.html)
-
-
-### Download roadmap
-[Download Roadmap](https://drive.google.com/file/d/1_AYp9a-fdo5wOCSpWIGr2vn1aZTy8Dwv/view?usp=sharing)
